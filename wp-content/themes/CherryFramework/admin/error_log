@@ -1,0 +1,24 @@
+[26-Jun-2020 14:39:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/options-sanitize.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/options-sanitize.php on line 7
+[26-Jun-2020 15:47:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/options-framework.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/options-framework.php on line 28
+[26-Jun-2020 23:29:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/options-medialibrary-uploader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/options-medialibrary-uploader.php on line 9
+[27-Jun-2020 10:34:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/options-sanitize.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/options-sanitize.php on line 7
+[27-Jun-2020 10:35:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/options-medialibrary-uploader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/options-medialibrary-uploader.php on line 9
+[27-Jun-2020 13:16:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/options-framework.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/options-framework.php on line 28

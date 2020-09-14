@@ -1,0 +1,34 @@
+[26-Jun-2020 04:45:07 America/Chicago] PHP Warning:  include_once(PARENT_DIR/admin/data_management/backup.php): failed to open stream: No such file or directory in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 2
+[26-Jun-2020 04:45:07 America/Chicago] PHP Warning:  include_once(): Failed opening 'PARENT_DIR/admin/data_management/backup.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 2
+[26-Jun-2020 04:45:07 America/Chicago] PHP Warning:  include_once(PARENT_DIR/admin/data_management/restore.php): failed to open stream: No such file or directory in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 3
+[26-Jun-2020 04:45:07 America/Chicago] PHP Warning:  include_once(): Failed opening 'PARENT_DIR/admin/data_management/restore.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 3
+[26-Jun-2020 04:45:07 America/Chicago] PHP Warning:  include_once(PARENT_DIR/admin/data_management/download_backup.php): failed to open stream: No such file or directory in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 4
+[26-Jun-2020 04:45:07 America/Chicago] PHP Warning:  include_once(): Failed opening 'PARENT_DIR/admin/data_management/download_backup.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 4
+[26-Jun-2020 04:45:07 America/Chicago] PHP Warning:  include_once(PARENT_DIR/admin/data_management/update.php): failed to open stream: No such file or directory in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 5
+[26-Jun-2020 04:45:07 America/Chicago] PHP Warning:  include_once(): Failed opening 'PARENT_DIR/admin/data_management/update.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 5
+[26-Jun-2020 04:45:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_data() in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php:15
+Stack trace:
+#0 /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php(9): get_theme_info('CherryFramework', 'Version')
+#1 {main}
+  thrown in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 15
+[26-Jun-2020 13:19:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_data() in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/update.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/update.php on line 32
+[27-Jun-2020 10:34:17 America/Chicago] PHP Warning:  include_once(PARENT_DIR/admin/data_management/backup.php): failed to open stream: No such file or directory in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 2
+[27-Jun-2020 10:34:17 America/Chicago] PHP Warning:  include_once(): Failed opening 'PARENT_DIR/admin/data_management/backup.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 2
+[27-Jun-2020 10:34:17 America/Chicago] PHP Warning:  include_once(PARENT_DIR/admin/data_management/restore.php): failed to open stream: No such file or directory in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 3
+[27-Jun-2020 10:34:17 America/Chicago] PHP Warning:  include_once(): Failed opening 'PARENT_DIR/admin/data_management/restore.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 3
+[27-Jun-2020 10:34:17 America/Chicago] PHP Warning:  include_once(PARENT_DIR/admin/data_management/download_backup.php): failed to open stream: No such file or directory in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 4
+[27-Jun-2020 10:34:17 America/Chicago] PHP Warning:  include_once(): Failed opening 'PARENT_DIR/admin/data_management/download_backup.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 4
+[27-Jun-2020 10:34:17 America/Chicago] PHP Warning:  include_once(PARENT_DIR/admin/data_management/update.php): failed to open stream: No such file or directory in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 5
+[27-Jun-2020 10:34:17 America/Chicago] PHP Warning:  include_once(): Failed opening 'PARENT_DIR/admin/data_management/update.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 5
+[27-Jun-2020 10:34:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_data() in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php:15
+Stack trace:
+#0 /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php(9): get_theme_info('CherryFramework', 'Version')
+#1 {main}
+  thrown in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/data_management_interface.php on line 15
+[28-Jun-2020 08:12:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_data() in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/update.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/tomp5147/public_html/wp-content/themes/CherryFramework/admin/data_management/update.php on line 32
